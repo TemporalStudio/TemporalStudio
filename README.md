@@ -1,4 +1,7 @@
-# ⏳ TEMPORAL STUDIO
+<p align="center">
+  <img src="[https://skillicons.dev/icons?i=godot,github,git](https://github.com/TemporalStudio/TemporalStudio/blob/main/Assets/Logo%202.jpg?raw=true)" />
+</p>
+
 ### Independent Game Development Studio
 
 <p align="center">
