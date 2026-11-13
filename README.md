@@ -1,16 +1,64 @@
-## Hi there 👋
+# ⏳ TEMPORAL STUDIO
+### Independent Game Development Studio
 
-<!--
-**TemporalStudio/TemporalStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>"Time Moves Forward. Legends Remain."</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Creating immersive worlds, challenging adventures, and unforgettable gaming experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌑 About Temporal Studio
+
+Welcome to **Temporal Studio**.
+
+We are an independent game development studio focused on creating original gaming experiences, with a passion for RPGs, Dark Fantasy worlds, strategic combat, and immersive storytelling.
+
+Powered by **Godot Engine**, we transform creative ideas into interactive worlds, building unique gameplay systems and memorable adventures.
+
+### ⚔️ What We Create
+
+- Dark Fantasy RPGs
+- Android Games
+- Turn-Based & Tactical Combat
+- Character Progression Systems
+- Skills, Abilities & Equipment
+- World Building & Exploration
+- Crafting & Game Mechanics
+
+### 🛠️ Development Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,github,git,blender" />
+</p>
+
+- **Engine:** Godot Engine
+- **Programming:** GDScript
+- **Platform:** Android
+- **Version Control:** Git & GitHub
+
+### 📜 Current Development
+
+Currently working on original game projects, focusing on gameplay architecture, user interface, combat mechanics, character systems, and world exploration.
+
+Every project is an opportunity to create something new.
+
+### 🏰 Our Philosophy
+
+- **Creativity** — Bring new ideas to life.
+- **Exploration** — Discover endless possibilities.
+- **Persistence** — Keep building, keep improving.
+- **Challenge** — Create experiences worth overcoming.
+
+---
+
+<p align="center">
+  <b>TEMPORAL STUDIO</b>
+  <br/>
+  TIME MOVES FORWARD. LEGENDS REMAIN.
+  <br/><br/>
+  <sub>Independent Game Development · Est. 2026</sub>
+</p>
