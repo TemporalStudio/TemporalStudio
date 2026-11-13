@@ -32,7 +32,7 @@ Powered by **Godot Engine**, we transform creative ideas into interactive worlds
 ### 🛠️ Development Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=godot,github,git,blender" />
+  <img src="https://skillicons.dev/icons?i=godot,github,git" />
 </p>
 
 - **Engine:** Godot Engine
