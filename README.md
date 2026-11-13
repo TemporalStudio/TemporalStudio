@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-### Independent Game Development Studio
-</p>
-
-<p align="center">
   <i>"Time Moves Forward. Legends Remain."</i>
 </p>
 
