@@ -2,7 +2,9 @@
   <img src="https://github.com/TemporalStudio/TemporalStudio/blob/main/Assets/Logo%202.jpg?raw=true" />
 </p>
 
+<p align="center">
 ### Independent Game Development Studio
+</p>
 
 <p align="center">
   <i>"Time Moves Forward. Legends Remain."</i>
